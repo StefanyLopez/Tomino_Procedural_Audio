@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 47f13a5e905f431b8094f9e602859be0
+timeCreated: 1705321460
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/View/ThemeProvider.cs
+  uploadId: 642799

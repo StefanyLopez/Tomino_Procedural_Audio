@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 502f4da3bf3fa4aa2bb6e7d650c776ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/Panel.prefab
+  uploadId: 642799

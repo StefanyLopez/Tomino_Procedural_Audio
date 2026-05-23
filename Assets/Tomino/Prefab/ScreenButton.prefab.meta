@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcaefe5f65249409c8f3c9087cf977fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/ScreenButton.prefab
+  uploadId: 642799

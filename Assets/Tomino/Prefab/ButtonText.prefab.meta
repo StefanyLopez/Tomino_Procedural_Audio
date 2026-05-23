@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79f1bd944eea94f07adbb4d78657dfb5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/ButtonText.prefab
+  uploadId: 642799

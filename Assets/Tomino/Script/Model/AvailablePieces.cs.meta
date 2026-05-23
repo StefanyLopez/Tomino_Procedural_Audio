@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 642811d66cbe9411298fee8dab66357e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Model/AvailablePieces.cs
+  uploadId: 642799

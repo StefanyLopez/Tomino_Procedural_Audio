@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d52edae23e594d9585eb08bcde8a040
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/MenuText.prefab
+  uploadId: 642799

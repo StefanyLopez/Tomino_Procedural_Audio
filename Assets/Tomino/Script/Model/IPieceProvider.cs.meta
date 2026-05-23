@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 033df32981b8648e9ad26fed601a4c44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Model/IPieceProvider.cs
+  uploadId: 642799

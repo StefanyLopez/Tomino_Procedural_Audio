@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c12802c28b2946a194b8fb31bbfa4ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Localization/LocalizationProvider.asset
+  uploadId: 642799

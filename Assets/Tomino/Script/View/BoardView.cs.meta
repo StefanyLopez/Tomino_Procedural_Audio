@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b4bb6a52c904d461aae3c734d4139ebb
+timeCreated: 1517756719
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/View/BoardView.cs
+  uploadId: 642799

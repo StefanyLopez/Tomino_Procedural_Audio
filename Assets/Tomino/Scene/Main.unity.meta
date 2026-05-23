@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27a143e31349942d2807fc29bb53d188
+timeCreated: 1511626214
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Scene/Main.unity
+  uploadId: 642799

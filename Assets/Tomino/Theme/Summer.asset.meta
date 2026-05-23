@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0adf9c0ff87644a9d8e7b65c32eab220
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Theme/Summer.asset
+  uploadId: 642799

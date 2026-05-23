@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24154d7066b064035b1374f8a0dd6d58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/View/ToggleView.cs
+  uploadId: 642799

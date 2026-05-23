@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22c08f9ba3e484ac1b0950e79d8f84b0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Documentation/Tomino.md
+  uploadId: 642799

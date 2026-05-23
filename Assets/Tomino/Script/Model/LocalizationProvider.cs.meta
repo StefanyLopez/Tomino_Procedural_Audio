@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6c8ef7ae17844cf1b33d30fb35525af3
+timeCreated: 1707257653
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Model/LocalizationProvider.cs
+  uploadId: 642799

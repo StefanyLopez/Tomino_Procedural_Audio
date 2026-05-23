@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 125870c93b57c4473a78ad82f592fa19
+timeCreated: 1519588106
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Game.cs
+  uploadId: 642799

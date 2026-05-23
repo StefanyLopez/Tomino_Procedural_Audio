@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b0991b6f0636f492294fce9f113e38d5
+timeCreated: 1532271437
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Test/Editor/Helper/StubPieceProvider.cs
+  uploadId: 642799

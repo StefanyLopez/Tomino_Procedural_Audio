@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be979e42bf4e54633ae75e5387ffde64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/Toggle.prefab
+  uploadId: 642799

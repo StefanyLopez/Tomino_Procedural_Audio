@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8039c3c9abbe643469d9c0b62477ba55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Input/UniversalInput.cs
+  uploadId: 642799

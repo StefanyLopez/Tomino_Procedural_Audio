@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e5e3b4f094f74d889ae72b0d58b1449
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Theme/Teal.asset
+  uploadId: 642799

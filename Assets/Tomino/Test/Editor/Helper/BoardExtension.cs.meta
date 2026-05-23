@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2f021078849d747e5815cab75aa30e53
+timeCreated: 1533333509
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Test/Editor/Helper/BoardExtension.cs
+  uploadId: 642799

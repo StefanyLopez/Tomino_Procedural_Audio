@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a24d25adc34247af867e387c4e6ed19a
+timeCreated: 1705013797
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/View/AlertButtonView.cs
+  uploadId: 642799

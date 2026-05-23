@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9194c3dfbff7045a69865ac9a8ccf79a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/Model/Settings.cs
+  uploadId: 642799

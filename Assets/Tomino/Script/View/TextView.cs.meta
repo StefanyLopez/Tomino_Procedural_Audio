@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b5292de7a2e245178cffb8f613a1cdd3
+timeCreated: 1705533604
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Script/View/TextView.cs
+  uploadId: 642799

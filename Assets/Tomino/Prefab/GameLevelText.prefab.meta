@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f54a633a135341419104f6926e2b6e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/GameLevelText.prefab
+  uploadId: 642799

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: caad83246a0bf4f02b796b0ca74eb575
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Prefab/GameScoreText.prefab
+  uploadId: 642799

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f986fc615d5af435ca420b0435fb1eb3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159004
+  packageName: Tomino
+  packageVersion: 2.0.0
+  assetPath: Assets/Tomino/Theme/ThemeProvider.asset
+  uploadId: 642799
