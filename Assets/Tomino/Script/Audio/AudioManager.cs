@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 
 // ═══════════════════════════════════════════════════════════════════════════════
-// AudioManager v3 — SFX estilo TETR.IO con síntesis avanzada.
+// AudioManager v3 — controlador central de audio, maneja la reproducción de SFX y música.
 //
 // Implementa exactamente las especificaciones del diseño sonoro:
 //   Move:      pitch drop 380→220Hz / 8ms, seno puro
