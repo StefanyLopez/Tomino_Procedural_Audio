@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| **Integrantes** | Juan José Camacho | Stefany López
+| **Integrantes** | Juan José Camacho, Stefany López | 
 | **Curso** | Audio Procedural |
 | **Corte** | Tercer corte |
 
