@@ -29,6 +29,14 @@ namespace Tomino
         /// The event triggered when the piece finishes falling.
         /// </summary>
         public event GameEventHandler PieceFinishedFallingEvent = delegate { };
+        
+        // Agrega este evento junto a los otros al inicio de la clase:
+        public event GameEventHandler<int> RowsClearedEvent = delegate { };
+
+        public delegate void GameEventHandler<T>(T value);
+
+        public delegate void RowsClearedEventHandler(int count);
+
 
         /// <summary>
         /// The current score.
@@ -46,6 +54,7 @@ namespace Tomino
         private PlayerAction? _nextAction;
         private float _elapsedTime;
         private bool _isPlaying;
+        public Board Board => _board;
 
         /// <summary>
         /// Creates a game with specified board and input.
@@ -200,6 +209,11 @@ namespace Tomino
             var rowsCount = _board.RemoveFullRows();
             Score.RowsCleared(rowsCount);
             Level.RowsCleared(rowsCount);
+
+            // Disparar evento de líneas si se completó alguna
+            if (rowsCount > 0)
+                RowsClearedEvent(rowsCount);
+
             AddPiece();
         }
 

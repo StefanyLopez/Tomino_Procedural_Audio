@@ -40,7 +40,10 @@ namespace Tomino
             _game.PieceFinishedFallingEvent += audioPlayer.PlayPieceDropClip;
             _game.PieceRotatedEvent += audioPlayer.PlayPieceRotateClip;
             _game.PieceMovedEvent += audioPlayer.PlayPieceMoveClip;
+            _game.RowsClearedEvent += OnRowsCleared;
+            _game.FinishedEvent    += audioPlayer.PlayGameOverClip;
             _game.Start();
+            
 
             gameConfig.scoreView.game = _game;
             gameConfig.levelView.game = _game;
@@ -79,9 +82,36 @@ namespace Tomino
             alertView.Show();
         }
 
+        private void OnRowsCleared(int count)
+        {
+            if (count >= 4)
+                AudioManager.instance?.PlayTetrisClearClip();
+            else
+                AudioManager.instance?.PlayLineClearClip(count);
+        }
+
         internal void Update()
         {
             _game.Update(Time.deltaTime);
+            UpdateDangerLevel(); // ← agregar
+        }
+
+        // Calcula el danger level según la altura de las piezas en el tablero.
+        // Llama a SetDangerLevel en el ambient para que el filtro reaccione.
+        private void UpdateDangerLevel()
+        {
+            if (_game?.Board == null) return;
+
+            int highestRow = 0;
+            foreach (var block in _game.Board.Blocks)
+            {
+                if (block.Position.Row > highestRow)
+                    highestRow = block.Position.Row;
+            }
+
+            // Peligro desde fila 0 hasta fila 16 (tablero de 20 filas)
+            float danger = Mathf.Clamp01(highestRow / 16f);
+            AudioManager.instance?.SetDangerLevel(danger);
         }
 
         private void ShowPauseView()
@@ -102,7 +132,9 @@ namespace Tomino
         {
             screenButtons.SetActive(Settings.ScreenButtonsEnabled);
             gameConfig.boardView.touchInput.Enabled = !Settings.ScreenButtonsEnabled;
-            musicAudioSource.gameObject.SetActive(Settings.MusicEnabled);
+            AudioManager.instance?.SetMusicEnabled(Settings.MusicEnabled);
+            if (musicAudioSource != null)
+                musicAudioSource.gameObject.SetActive(false);
         }
-    }
+    }   
 }
